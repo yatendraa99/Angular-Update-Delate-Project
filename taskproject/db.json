@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Ram",
+      "lastName": "Kumar",
+      "email": "ramkumar1999@gmail.com",
+      "mobile": "9549423876",
+      "salary": "45555"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
